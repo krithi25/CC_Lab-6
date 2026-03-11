@@ -1,0 +1,11 @@
+
+{
+  "name": "backend-app",
+  "version": "1.0.0",
+  "description": "Simple backend for Jenkins lab",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
